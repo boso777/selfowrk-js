@@ -12,3 +12,4 @@ console.log(stringa);
 
 console.log(PIGRECO);
 PIGRECO=(33);
+.
